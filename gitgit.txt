@@ -7,6 +7,6 @@ SWITCH TO THE NEW BRANCH -- DONE
 making the conflict
 MERGE THE BRANCH WITH THE MAIN
 conflict -- DONE
-new commit in github 
+new commit in github --DONE
 
 
